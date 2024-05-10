@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-style: none;
+    color: black;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+}
+.PAYPAL img{
+    width: 100px;
+    
+    
+}
+.personal{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.personal i{
+    font-size: 20px;
+    
+}
+.button1{
+    border: 1px solid blue;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+.button2{
+    border: 1px solid blue;
+    border-radius: 30px;
+    background-color: darkblue;
+    color: white;
+    
+}
+
+.button button{
+    padding: 13px 30px;
+}
+
+.button2:hover{
+    background-color: rgb(45, 45, 95);
+}
+
+
+.simpler{
+    text-align: center;
+    padding: 100;
+    background-image: url(wall.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 2000px;
+    background-position: right;
+    
+}
+.simpler h3{
+    font-size: 40px;  
+    color: white;
+    padding: 50px;
+    
+}
+
+.sign{
+    padding: 50px;
+
+    
+}
+
+.sign button{
+    border: 1px solid rgb(74, 74, 223);
+    background-color: rgb(80, 80, 245);
+    border-radius: 30px;
+    padding: 13px 70px;
+    color: white;
+    transition: all 1s;
+    
+    
+}
+button:hover{
+    background-color: rgb(56, 56, 221);
+}
+
+.sign p{
+    padding: 30px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sign p span{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.monday{
+    padding: 80px;
+    text-align: center;
+}
+
+.monday h3{
+    font-size: 40px;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 2;
+}
+.monday .citizen img{
+    padding: 20px;
+}
+
+.monday h4{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1;
+}
+.monday p{ 
+    margin: 20px;
+    
+}
+
+.monday button{
+    padding: 10px;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    border: 1px solid blue;
+    
+}
+.pay:hover{
+    text-decoration: underline;
+}
+
+
+#connects{
+   text-align: center; 
+   background-color: rgb(238, 233, 233);
+}
+
+
+.connects h2{
+    font-weight: lighter;
+    padding: 10px;
+}
+
+.connects h5{
+    font-weight: lighter;
+}
+
+.connects i{
+   font-size: 20; 
+   
+}
+.learn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.join{
+    padding: 30px;
+}
+.join button{
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    color: blue;
+    width: 120px;
+    background-color: white;
+    
+}
+ 
+ 
